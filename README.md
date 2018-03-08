@@ -8,6 +8,12 @@ PRs welcome! To ease with verification, please include only one project/organisa
 
 **Always work in progress.**
 
+## Blockchain
+| Org | Location | Founded | Description | Notes
+| --- | --- | --- | --- | --- |
+[Manna](https://www.mannabase.com/) | Global (EN) | [2015](http://www.grantcoin.org/2015/05/01/grantcoin-foundation-launches-sustainable-alternative-currency/) | Blockchain-based digital currency for basic income. | Re-branded from Grantcoin in Dec 2017.
+
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
