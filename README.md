@@ -11,6 +11,7 @@ PRs welcome! To ease with verification, please include only one project/organisa
 ## Blockchain
 | Org | Location | Founded | Description | Notes
 | --- | --- | --- | --- | --- |
+[CirclesUBI](https://joincircles.net/) | Global; Berlin, Germany | 2017 | Blockchain-based personal currency with interlocking trust networks |
 [Manna](https://www.mannabase.com/) | Global (EN) | [2015](http://www.grantcoin.org/2015/05/01/grantcoin-foundation-launches-sustainable-alternative-currency/) | Blockchain-based digital currency for basic income. | Re-branded from Grantcoin in Dec 2017.
 
 
