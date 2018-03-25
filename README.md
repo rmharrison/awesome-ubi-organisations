@@ -20,6 +20,13 @@ PRs welcome! To ease with verification, please include only one project/organisa
 | --- | --- | --- | --- | --- |
 [Insight Center for Community Economic Development](https://insightcced.org/ubi/) | Oakland, CA |  | Economic component of racial justice |
 
+## Film
+| Org | Location | Schedueled Release | Description | Notes
+| --- | --- | --- | --- | --- |
+[Basic Income Film](www.basicincomefilm.com/projects/) | Filming (US, Canada) | Mincome (Spring 2018); Stockton (TBD) | Short-stories and vignettes about basic income. |
+[Bootstraps Film](https://www.bootstrapsfilm.com/) | Production (NYC); Filming (12+ sites all over the US) | Q1 2020 | Upcoming documentary about basic income in the US, following 20 families for two years with a $1k/month basic income to answer the question of how ordinary Americans will empower themselves with a little economic security. | $1k/month basic income for two years is the most geographical diverse basic income pilot in the US to date |
+[Income Outcome Film](https://www.facebook.com/incomeoutcomefilm/) | Filming (US) | TBD | Documentary about the history of basic income, focusing on potential impacts on rural America.
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
