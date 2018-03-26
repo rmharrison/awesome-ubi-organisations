@@ -8,6 +8,15 @@ PRs welcome! To ease with verification, please include only one project/organisa
 
 **Always work in progress.**
 
+## Advocacy
+| Org | Location | Founded | Description | Notes
+| --- | --- | --- | --- | --- |
+[Basic Income Earth Network (BIEN)](http://basicincome.org/) | Global | 1986 | | Runs [Basic Income News](http://basicincome.org/news/), the most authorative source for current affairs on basic income, including fact checking mass media hype; Maintains list of [regional and national affiliates](http://basicincome.org/about-bien/affiliates/). |
+[Unconditional Basic Income Europe (UBI-Europe)](https://www.ubie.org/) | EU | | Advocate for the implementation of Basic Income in Europe and its recognition as a Universal Human Right |
+[Basic Income Canada Network (BICN)](https://www.basicincomecanada.org/) | Canada | 2008 | | Maintains list of [local Candian basic income chapters](https://www.basicincomecanada.org/local_networks); Co-runs annual North American Basic Income Guarantee (NABIG) conference with USBIG |
+[US Basic Income Guarantee Network (USBIG)](http://www.usbig.net/) | US | December 1999 | (Mostly) academic arm of US-based movement | Maintains most extensive archive of basic income research, [Discussion Papers](http://www.usbig.net/papers.php); Publishes monthly [NewsFlashes](http://www.usbig.net/newsletters.php) newsletter; Co-runs annual North American Basic Income Guarantee (NABIG) conference with Basic Income Canada Network | 
+[Basic Income Action (BIA)](http://www.basicincomeaction.org/local_chapters) | US | | Local chapter based advocacy and outreach arm of US-based basic income movement | Best place to find (or start) a US-based local chapter |
+
 ## Blockchain
 | Org | Location | Founded | Description | Notes
 | --- | --- | --- | --- | --- |
