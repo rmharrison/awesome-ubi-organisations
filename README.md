@@ -27,6 +27,12 @@ PRs welcome! To ease with verification, please include only one project/organisa
 [Bootstraps Film](https://www.bootstrapsfilm.com/) | Production (NYC); Filming (12+ sites all over the US) | Q1 2020 | Upcoming documentary about basic income in the US, following 20 families for two years with a $1k/month basic income to answer the question of how ordinary Americans will empower themselves with a little economic security. | $1k/month basic income for two years is the most geographical diverse basic income pilot in the US to date |
 [Income Outcome Film](https://www.facebook.com/incomeoutcomefilm/) | Filming (US) | TBD | Documentary about the history of basic income, focusing on potential impacts on rural America.
 
+## Raffle
+| Org | Location | Founded | Description | Notes
+| --- | --- | --- | --- | --- |
+[Mein Grundeinkommen](https://www.mein-grundeinkommen.de/infos/in-english) | Germany; Global | July 2014 | World's largest basic income raffle, with 150+ €1,000/month for one year basic incomes raffled and growing |
+[My Basic Income](http://mybasicincome.org/) | US | 2015 (presumed defunct as of 2018) | Completed one $15k basic income raffle in 2016 |
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
