@@ -41,6 +41,11 @@ For UBI-endorsing political candidates and politicians, see: https://github.com/
 | --- | --- | --- | --- | --- |
 [Insight Center for Community Economic Development](https://insightcced.org/ubi/) | Oakland, CA |  | UBI as an economic component of racial justice |
 
+### Intergovernmental organization
+| Org | Location | Ideology | Selected Works | Notes
+| --- | --- | --- | --- | --- |
+[United Nations Development Programme, China](http://www.cn.undp.org) | Beijing,China | Globalism | [White paper: Universal Basic Income: A Working Paper, A Policy Option for China beyond 2020? (2017)](http://www.cn.undp.org/content/china/en/home/library/poverty/universal-basic-income--a-working-paper.html)
+
 ### Thank Tanks
 | Org | Location | Ideology | Selected Works | Notes
 | --- | --- | --- | --- | --- |
