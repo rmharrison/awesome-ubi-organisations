@@ -17,6 +17,11 @@ PRs welcome! To ease with verification, please include only one project/organisa
 [US Basic Income Guarantee Network (USBIG)](http://www.usbig.net/) | US | December 1999 | (Mostly) academic arm of US-based movement | Maintains most extensive archive of basic income research, [Discussion Papers](http://www.usbig.net/papers.php); Publishes monthly [NewsFlashes](http://www.usbig.net/newsletters.php) newsletter; Co-runs annual North American Basic Income Guarantee (NABIG) conference with Basic Income Canada Network | 
 [Basic Income Action (BIA)](http://www.basicincomeaction.org/local_chapters) | US | | Local chapter based advocacy and outreach arm of US-based basic income movement | Best place to find (or start) a US-based local chapter |
 
+## Academic Centres
+| Centre | University | Location | Founded | Description | Notes
+| --- | --- | --- | --- | --- | --- |
+[Stanford Basic Income Lab (BIL)](https://basicincome.stanford.edu/) | Stanford University | Stanford, California (Silicon Valley) | February 2017 
+
 ## Blockchain
 | Org | Location | Founded | Description | Notes
 | --- | --- | --- | --- | --- |
