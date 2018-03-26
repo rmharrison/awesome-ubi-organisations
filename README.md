@@ -41,6 +41,12 @@ For UBI-endorsing political candidates and politicians, see: https://github.com/
 | --- | --- | --- | --- | --- |
 [Insight Center for Community Economic Development](https://insightcced.org/ubi/) | Oakland, CA |  | UBI as an economic component of racial justice |
 
+### Thank Tanks
+| Org | Location | Ideology | Selected Works | Notes
+| --- | --- | --- | --- | --- |
+[Adam Smith Institute](https://www.adamsmith.org) | London, United Kingdom | Neoliberal (formerly libertarian) | [White paper: Basic Income around the World: The unexpected benefits of unconditional cash transfers (2018)](https://www.adamsmith.org/news/rising-evidence-basic-income); [PDF](https://static1.squarespace.com/static/56eddde762cd9413e151ac92/t/5a5f54ff53450ae87509190a/1516197120863/Universal+Basic+Income.pdf)
+[Roosevelt Institute](http://rooseveltinstitute.org) | Washington, DC, USA | Liberal (Classical liberalism) | [White paper: Modeling the Macroeconomic Effects of a Universal Basic Income (2017)](http://rooseveltinstitute.org/modeling-macroeconomic-effects-ubi/) |
+
 ## Research, Academic
 ### Journal
 | Journal | Founded | Description | Notes
