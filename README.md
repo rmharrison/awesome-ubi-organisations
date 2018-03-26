@@ -63,6 +63,11 @@ For UBI-endorsing political candidates and politicians, see: https://github.com/
 | --- | --- | --- | --- | --- |
 [GiveDirectly](https://www.givedirectly.org/) | Headquartered in US; Cash transfers to Kenya, Uganda | 2009 | Charitable cash transfer for international aid | 
 
+### Mutual Aid
+| Org | Location | Founded | Description | Notes
+| --- | --- | --- | --- | --- |
+[Voluntary Basic Income](https://voluntarybasicincome.org/) | US | 2017 | Non-governmental (partial) basic income via member-based income-sharing | 
+
 ### Raffle
 | Org | Location | Founded | Description | Notes
 | --- | --- | --- | --- | --- |
