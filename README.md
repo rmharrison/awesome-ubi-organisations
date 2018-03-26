@@ -22,7 +22,7 @@ For UBI-endorsing political candidates and politicians, see: https://github.com/
 ## Blockchain
 | Org | Location | Founded | Description | Notes
 | --- | --- | --- | --- | --- |
-[Group Income](https://groupincome.org) | Global; Project of [okTurtles Foundation](https://okturtles.org) | 2015 | Decentralized voluntary basic income for you and your friends. | Works with any currency, fiat or crypto. Follow [progress here to join prototype tests.](https://groupincome.org/blog)
+[Group Income](https://groupincome.org) | Global; Project of [okTurtles Foundation](https://okturtles.org) | [2015](https://techcrunch.com/2015/11/21/and-realpolitik-for-free/) | Decentralized voluntary basic income for you and your friends. | Works with any currency, fiat or crypto. Follow [progress here to join prototype tests.](https://groupincome.org/blog)
 [CirclesUBI](https://joincircles.net/) | Global; Berlin, Germany | 2017 | Blockchain-based personal currency with interlocking trust networks |
 [Manna](https://www.mannabase.com/) | Global (EN) | [2015](http://www.grantcoin.org/2015/05/01/grantcoin-foundation-launches-sustainable-alternative-currency/) | Blockchain-based digital currency for basic income. | Re-branded from Grantcoin in Dec 2017.
 [Project Greshm](http://www.greshm.org/) | Global; Boston, MA, United States | 2018 | USD-backed independent basic income system. | In development since 2015.
