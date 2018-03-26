@@ -23,6 +23,11 @@ PRs welcome! To ease with verification, please include only one project/organisa
 | --- | --- | --- | --- |
 [Basic Income Studies](https://www.degruyter.com/view/j/bis) | 2006 
 
+### Private Foundation
+| Org | Founded | Description | Notes
+| --- | --- | --- | --- |
+[Y Combinator Research, Basic Income](https://basicincome.ycr.org/) | 2015 | $1,000/month (up to five years), randomized controlled trial (RCT) in two US states | Non-profit research arm of for-profit [Y-Combinator](https://www.ycombinator.com/), seed-stage venture capital.
+
 ### Research Centre
 | Centre | University | Location | Founded | Description | Notes
 | --- | --- | --- | --- | --- | --- |
