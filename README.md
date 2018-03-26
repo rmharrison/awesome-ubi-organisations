@@ -46,10 +46,17 @@ For UBI-endorsing political candidates and politicians, see: https://github.com/
 | --- | --- | --- | --- | --- |
 [United Nations Development Programme, China](http://www.cn.undp.org) | Beijing,China | Globalism | [White paper: Universal Basic Income: A Working Paper, A Policy Option for China beyond 2020? (2017)](http://www.cn.undp.org/content/china/en/home/library/poverty/universal-basic-income--a-working-paper.html)
 
+### Tax Reform
+#### Partial Basic
+| Org | Location | Year | Description | Notes
+| --- | --- | --- | --- | --- |
+[FairTax](https://fairtax.org/) | US, Federal Tax | Introduced 1999. Ongoing as of 2018 | Consumption tax prebate based on poverty line: ~$250/month/adult, ~$80/month/child | Related to Negative Income Tax.
+
 ### Thank Tanks
 | Org | Location | Ideology | Selected Works | Notes
 | --- | --- | --- | --- | --- |
 [Adam Smith Institute](https://www.adamsmith.org) | London, United Kingdom | Neoliberal (formerly libertarian) | [White paper: Basic Income around the World: The unexpected benefits of unconditional cash transfers (2018)](https://www.adamsmith.org/news/rising-evidence-basic-income); [PDF](https://static1.squarespace.com/static/56eddde762cd9413e151ac92/t/5a5f54ff53450ae87509190a/1516197120863/Universal+Basic+Income.pdf)
+[American Enterprise Institute](https://www.aei.org) | Washington, DC, USA | Conservative | [White paper: A budget-neutral universal basic income (2017)](https://www.aei.org/publication/a-budget-neutral-universal-basic-income/)
 [Roosevelt Institute](http://rooseveltinstitute.org) | Washington, DC, USA | Liberal | [White paper: Modeling the Macroeconomic Effects of a Universal Basic Income (2017)](http://rooseveltinstitute.org/modeling-macroeconomic-effects-ubi/) |
 
 ## Research, Academic
