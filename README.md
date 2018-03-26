@@ -46,11 +46,11 @@ For UBI-endorsing political candidates and politicians, see: https://github.com/
 | --- | --- | --- | --- | --- |
 [United Nations Development Programme, China](http://www.cn.undp.org) | Beijing,China | Globalism | [White paper: Universal Basic Income: A Working Paper, A Policy Option for China beyond 2020? (2017)](http://www.cn.undp.org/content/china/en/home/library/poverty/universal-basic-income--a-working-paper.html)
 
-### Tax Reform
-#### Partial Basic
-| Org | Location | Year | Description | Notes
-| --- | --- | --- | --- | --- |
-[FairTax](https://fairtax.org/) | US, Federal Tax | Introduced 1999. Ongoing as of 2018 | Consumption tax prebate based on poverty line: ~$250/month/adult, ~$80/month/child | Related to Negative Income Tax.
+### Legislative
+| Org | Type | Location | Year | Description | Notes
+| --- | --- | --- | --- | --- | --- |
+[Climate and Prosperity](http://climateandprosperity.org) | Carbon cap and dividend; Partial basic | US, Federal | Introduced 2009; On going as of 2018. | Caps carbon emissions and distributes a quarterly dividend to every US resident with a social security number | 
+[FairTax](https://fairtax.org/) | Tax Reform; Partial basic | US, Federal | Introduced 1999; Ongoing as of 2018 | Consumption tax prebate based on poverty line: ~$250/month/adult, ~$80/month/child | Related to Negative Income Tax.
 
 ### Thank Tanks
 | Org | Location | Ideology | Selected Works | Notes
